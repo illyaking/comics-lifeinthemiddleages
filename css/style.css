@@ -122,7 +122,7 @@ margin : 0 auto !important ;
 }
 @media screen and (max-width: 750px) {
 .navi {
-margin : 0 52px !important ;
+margin : 0 32px !important ;
 }
 .navi-first-in, .navi-last-in, .navi-last, .navi-first {
 display : none !important ;
